@@ -39,3 +39,4 @@ OBS: alguns materiais podem estar desatualizados
 
 ### Outros
 * [http://exercism.io/](http://exercism.io/)
+* [loremaction - gerador de frases](http://loremaction.com/)
